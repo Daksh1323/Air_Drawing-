@@ -25,10 +25,7 @@ Built using **Python, OpenCV, and MediaPipe**.
 
 ## 📸 Demo Preview
 
-
-
-::contentReference[oaicite:0]{index=0}
-
+<img width="787" height="640" alt="Screenshot 2025-12-28 010310" src="https://github.com/user-attachments/assets/5bb010c8-8d10-4137-9267-2e4595b2a8a0" />
 
 ---
 
